@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=Install hatchery
+GenericName=Calamares Installer
+Exec=install-hatchery
+Comment=Calamares — Installer for hatchery Live
+Keywords=calamares;system;install;hatchery;installer
+Icon=install-hatchery
+Terminal=false
+Categories=Qt;System;
+StartupWMClass=calamares
+StartupNotify=True

@@ -1,0 +1,23 @@
+calamares-settings-hatchery (0.1.2-1~pecos+1) pecos; urgency=medium
+
+  * Replaced steelhead with pecos.  Rebuild for pecos.
+
+ -- Will Elliott <troutcobbler@gmail.com>  Sun, 28 May 2023 00:25:41 -0600
+
+calamares-settings-hatchery (0.1.2-1~steelhead+1) steelhead; urgency=medium
+
+  * Removed logo bubble.  Fixed package list to be purged.
+
+ -- Will Elliott <troutcobbler@gmail.com>  Fri, 03 Feb 2023 21:14:24 -0700
+
+calamares-settings-hatchery (0.1.1-1~steelhead+1) steelhead; urgency=medium
+
+  * Fixed a typo in branding.desc
+
+ -- Will Elliott <troutcobbler@gmail.com>  Fri, 03 Feb 2023 18:38:59 -0700
+
+calamares-settings-hatchery (0.1.0-1~steelhead+1) steelhead; urgency=medium
+
+  * Forked from calamares-settings-debian to hatchery.
+
+ -- Will Elliott <troutcobbler@gmail.com>  Fri, 03 Feb 2023 15:23:26 -0700
