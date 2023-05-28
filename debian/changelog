@@ -1,6 +1,6 @@
-calamares-settings-hatchery (0.1.2-1~pecos+1) pecos; urgency=medium
+calamares-settings-hatchery (0.1.2) pecos; urgency=medium
 
-  * Replaced steelhead with pecos.  Rebuild for pecos.
+  * Replaced steelhead with pecos.  Rebuild for pecos.  Switched to native format.
 
  -- Will Elliott <troutcobbler@gmail.com>  Sun, 28 May 2023 00:25:41 -0600
 
