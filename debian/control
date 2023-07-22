@@ -5,7 +5,7 @@ Maintainer: Will Elliott <troutcobbler@gmail.com>
 Build-Depends: debhelper-compat (= 13), libglib2.0-bin
 Standards-Version: 4.6.0
 Rules-Requires-Root: no
-Homepage: https://bitbucket.org/troutcobbler/calamares-settings-hatchery
+Homepage: https://github.com/troutcobbler/calamares-settings-hatchery
 
 Package: calamares-settings-hatchery
 Architecture: all

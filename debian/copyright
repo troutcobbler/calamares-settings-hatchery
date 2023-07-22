@@ -1,6 +1,6 @@
 Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: calamares-settings-hatchery
-Source: https://bitbucket.org/troutcobbler/calamares-settings-hatchery
+Source: https://github.com/troutcobbler/calamares-settings-hatchery
 
 Files: *
 Copyright: 2016-2023 Jonathan Carter <jcc@debian.org>
