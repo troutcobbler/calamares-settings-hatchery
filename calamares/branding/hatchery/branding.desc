@@ -3,7 +3,7 @@ componentName:   hatchery
 welcomeStyleCalamares: true
 welcomeExpandingLogo: true
 windowExpanding: normal
-windowSize: 800px,520px
+windowSize: 800px,580px
 windowPlacement: center
 
 strings:
@@ -17,18 +17,20 @@ strings:
     productUrl:          https://hatcherylinux.org
     supportUrl:          https://hatcherylinux.org
 
+sidebar: widget
+navigation: widget
+
 images:
     productLogo:         "hatchery-logo.png"
     productIcon:         "hatchery-logo.png"
     productWelcome:      "welcome.png"
-    # productWallpaper:  "wallpaper.png"
 
 slideshow:               "show.qml"
 
 style:
-   sidebarBackground:        "#2d2d2d"
-   sidebarText:              "#a7a7a7"
-   sidebarTextCurrent:       "#2d2d2d"
-   sidebarBackgroundCurrent: "#a7a7a7"
+   SidebarBackground:        "#2d2d2d"
+   SidebarText:              "#a7a7a7"
+   SidebarTextCurrent:       "#2d2d2d"
+   SidebarBackgroundCurrent: "#a7a7a7"
 
 slideshowAPI: 2
