@@ -3,15 +3,18 @@ Section: utils
 Priority: optional
 Maintainer: Will Elliott <troutcobbler@gmail.com>
 Build-Depends: debhelper-compat (= 13), libglib2.0-bin
-Standards-Version: 4.6.0
+Standards-Version: 4.6.2
 Rules-Requires-Root: no
 Homepage: https://github.com/troutcobbler/calamares-settings-hatchery
 
 Package: calamares-settings-hatchery
 Architecture: all
 Depends: calamares,
+         rsync,
          cryptsetup,
+         libglib2.0-bin,
          keyutils,
+         pkexec,
          qml-module-qtquick-window2,
          qml-module-qtquick2,
          ${misc:Depends}
