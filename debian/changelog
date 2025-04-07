@@ -1,3 +1,9 @@
+calamares-settings-hatchery (0.2.1) gila; urgency=medium
+
+  * initial fixes for gila
+
+ -- Will Elliott <troutcobbler@gmail.com>  Mon, 07 Apr 2025 00:49:32 -0600
+
 calamares-settings-hatchery (0.2.0) gila; urgency=medium
 
   * Updated for gila. 
