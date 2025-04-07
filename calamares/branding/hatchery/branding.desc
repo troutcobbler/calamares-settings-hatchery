@@ -9,10 +9,10 @@ windowPlacement: center
 strings:
     productName:         hatchery Linux
     shortProductName:    hatchery
-    version:             hatchery (pecos)
+    version:             hatchery (gila)
     shortVersion:        hatchery
-    versionedName:       hatchery (pecos)
-    shortVersionedName:  hatchery pecos
+    versionedName:       hatchery (gila)
+    shortVersionedName:  hatchery gila
     bootloaderEntryName: debian
     productUrl:          https://hatcherylinux.org
     supportUrl:          https://hatcherylinux.org
