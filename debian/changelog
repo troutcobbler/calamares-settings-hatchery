@@ -1,3 +1,9 @@
+calamares-settings-hatchery (0.2.3) gila; urgency=medium
+
+  * fixed slideshow not showing up.
+
+ -- Will Elliott <troutcobbler@gmail.com>  Fri, 11 Apr 2025 20:40:10 -0600
+
 calamares-settings-hatchery (0.2.2) gila; urgency=medium
 
   * removed backports from sources.list
