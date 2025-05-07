@@ -1,3 +1,9 @@
+calamares-settings-hatchery (0.2.5) gila; urgency=medium
+
+  * switched /etc/apt/sources* to DEB822-STYLE FORMAT
+
+ -- Will Elliott <troutcobbler@gmail.com>  Tue, 06 May 2025 21:02:29 -0600
+
 calamares-settings-hatchery (0.2.4) gila; urgency=medium
 
   * updated some of the copyright info.
