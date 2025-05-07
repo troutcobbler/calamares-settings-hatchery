@@ -4,17 +4,17 @@ Source: https://github.com/troutcobbler/calamares-settings-hatchery
 
 Files: *
 Copyright: 2016-2023 Jonathan Carter <jcc@debian.org>
-           2023 Will Elliott <troutcobbler@gmail.com>
+           2023-2025  Will Elliott <troutcobbler@gmail.com>
 License: ISC
 
 Files: calamares/branding/hatchery/*png
 Copyright: 2019 Isabelle Simpkins <isy@koipond.org.uk>
-           2023 Will Elliott <troutcobbler@gmail.com>
+           2023-2025  Will Elliott <troutcobbler@gmail.com>
 License: CC-BY-SA-3.0
 
 Files: debian/*
 Copyright: 2016-2023 Jonathan Carter <jcc@debian.org>
-           2023 Will Elliott <troutcobbler@gmail.com>
+           2023-2025  Will Elliott <troutcobbler@gmail.com>
 License: ISC
 
 Files: calamares/branding/hatchery/show.qml
