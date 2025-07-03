@@ -1,3 +1,9 @@
+calamares-settings-hatchery (0.2.6) gila; urgency=medium
+
+  * fixed bootloader entry to match debian installer
+
+ -- Will Elliott <troutcobbler@gmail.com>  Thu, 03 Jul 2025 12:25:36 -0600
+
 calamares-settings-hatchery (0.2.5) gila; urgency=medium
 
   * switched /etc/apt/sources* to DEB822-STYLE FORMAT
