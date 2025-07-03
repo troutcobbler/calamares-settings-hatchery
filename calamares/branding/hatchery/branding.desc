@@ -13,7 +13,7 @@ strings:
     shortVersion:        hatchery
     versionedName:       hatchery (gila)
     shortVersionedName:  hatchery gila
-    bootloaderEntryName: debian
+    bootloaderEntryName: Debian
     productUrl:          https://hatcherylinux.org
     supportUrl:          https://hatcherylinux.org
 
