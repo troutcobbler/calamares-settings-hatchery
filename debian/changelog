@@ -1,3 +1,9 @@
+calamares-settings-hatchery (0.2.7) gila; urgency=medium
+
+  * changed the hatchery repo for the gila release
+
+ -- Will Elliott <troutcobbler@gmail.com>  Thu, 14 Aug 2025 23:11:55 -0600
+
 calamares-settings-hatchery (0.2.6) gila; urgency=medium
 
   * fixed bootloader entry to match debian installer
